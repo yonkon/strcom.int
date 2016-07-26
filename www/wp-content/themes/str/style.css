@@ -1,0 +1,134 @@
+/*   
+Theme Name: str-complex
+Description: str-complex
+Author: amp
+Author URI: ampolez@lgmail.com
+*/
+
+*		    { margin: 0; padding: 0; }
+.jkhsjkdhfkjsadf{}
+body		    { font: 15px/2 Verdana, serif; background: URL("http://str-complex.ru/bg.gif"); }
+P, li		    { color: #0b3d56; text-align:justify;}
+h2	            { color: #ffffff; padding: 10px; font-weight: normal; }
+h4	            { color: #ffffff;}
+#ss		    { color: #ffffff; text-decoration: none; font-family: Tahoma; font-size: 16px;font-weight:normal;border-bottom: 1px dotted #ffffff; }
+#ss:hover	  	    { color: #ffffff; text-decoration: none; font-family: Tahoma; font-size: 16px;border-bottom-style: solid; }
+
+#ss1		    { color: #ffffff; text-decoration: none; font-family: Tahoma; font-size: 14px;font-weight:normal;border-bottom: 1px dotted #ffffff; }
+#ss1:hover	  	    { color: #ffffff; text-decoration: none; font-family: Tahoma; font-size: 14px;border-bottom-style: solid; }
+
+
+li		    { margin-left: 40px;}
+
+#bread		    {width:100%; text-align:right;padding-top: 15px;}
+
+
+#bread a		    { color: #ffffff; text-decoration: none; font-family: Tahoma; font-size: 12px;font-weight:normal;border-bottom: 1px dotted #ffffff; }
+#bread a:hover	    { color: #ffffff; text-decoration: none; font-family: Tahoma; font-size: 12px;border-bottom-style: solid; }
+.bred		    { font-family: Tahoma; font-size: 12px; color: #ffffff;}
+.bred:hover	    { font-family: Tahoma; font-size: 12px; color: #ffffff;}
+.menu-dot	    { margin: 0 4px 0px 20px;}
+.blue-text	    { color: #074c6e; text-align:justify;} 
+.img-capt	    { color: #074c6e; text-align:right;} 
+.innerTD {border-left:0;border-right:0;border-top:0;border-bottom:0}
+
+
+#subh1 		    { color: #ffffff;}
+#block		    { margin-top: 20px;text-align:center; font-family: Verdana; color: #ffffff; font-size: 12px;padding: 10px 0 10px 0;}
+#block img 	    { border: 1px solid #ffffff; margin-top: 15px;}
+#block-header	    { padding-bottom: 5px;border-bottom: 1px dotted #ffffff;font-weight: bold;color: #ffffff;text-align: right; font-family: Verdana; font-size: 15px;}
+#block p	    { margin-top: 10px;}
+#block-header img   { border: 1px solid #ffffff;}
+#block-footer	    { dispaly:block;text-align:right;color:white;}
+
+#caption	    { color: #ffffff; padding: 0px; font-weight: normal; font-size: 20px;margin-top:-12px;position:absolute; margin-left: 54px;  }
+
+#title 		    { background: #0b3d56;padding: 8px;text-align:center;font-weight:bold;color: #ffffff;font-size:14px;}
+#item1		    { color: #ffffff;padding:1px;font-size: 14px;}
+#item		    { color: #ffffff;padding:1px;text-align:center;font-size: 14px;}
+
+#img		    { border: 1px solid #ffffff; margin-top: 15px;}
+#imgi		    { border: 1px solid #0b3d56; margin-top: 15px;}
+
+
+#logo		    { margin: 30px 0 0 0px;}
+#text-pad	    { padding-left: 5px;}
+
+#page-wrap	    { border-bottom:0;max-width: 960px; min-width: 560px; margin: 0 auto; position: relative; }
+
+#header             { height: 253px; max-width: 960px; min-width: 560px; background: URL("http://str-complex.ru/wp-content/uploads/2016/07/head.jpg") no-repeat;  margin: 15px auto 0; }
+
+#menu		    { padding: 5px 0 0 0; margin-top: 0px; position: relative; height:32px;  }
+#menu-items	    { margin-top: 218px;background: URL("http://str-complex.ru/menu-bg.png");}
+#menu a		    { color: #f1f1f1; font-family: Tahoma; text-decoration:none;font-weight:bold}
+#menu a:hover	    { color: #f1f1f1; font-family: Tahoma; text-decoration:none;border-bottom: 1px solid #b7daf3;}
+
+#main-content       { padding: 0 235px 0 20px; background: #8aa3b0; }
+#main-content p, li { font: 14px/1.6 Verdana;}
+
+div.nthread {
+	width: 100%;
+	text-align: right;
+}
+
+div.nthread span.date {
+	font: 12px Arial, Verdana, Tahoma;
+	color: #fff;
+}
+div.nthread h2 {
+	width: 100%;
+	text-align: left;
+	font: 20px Arial, Tahoma, Vaerdana;
+	text-transform: capitalize;
+}
+div.nthread a {
+}
+
+#main-sidebar       { font: 15px/1.6 Verdana, serif; position: absolute; right: 0; top: 0; width: 200px; bottom: 0; background: #0b3d56; padding: 0 10px; }
+#main-sidebar p     { color: white; font-size:11px;padding-top: 2px;}                 
+#sidebar-header	    { color: white; text-align: center; font-family: Verdana; font-weight: bold;}
+#nthread	    { margin-top: 18px;padding: 1px 0 1px 0;font: 15px/1.3 Verdana, serif;  border-bottom: 1px dotted white; font-size: 12px; font-family: Tahoma; color: white; font-weight: bold;}
+#main-sidebar a	    { text-decoration:none;border-bottom: 1px dotted white;color: e2921d;}
+#main-sidebar a:hover    {text-decoration:none;border-bottom: 1px solid #fff; color: #fff;}
+
+
+#footer             { min-height: 75px;max-width: 960px; min-width: 560px; background: #55717f; margin: 0 auto 15px; }
+#footer-logo	    { margin: 7px 0 0 20px; border-right: 1px dotted #ffffff; padding-right: 15px;}
+#footer-text	    { margin: -67px 0 0 100px;}
+#footer p           { font: 13px/1.2 Verdana; padding: 10px; color: #ffffff; }
+#footer a           { color: #ffffff; border-bottom: 1px dotted #ffffff; text-decoration: none; }
+#footer a:hover     { border-bottom-style: solid; }
+
+a.snews { 
+	font: 12px Arial, Tahoma, Verdana; 
+	color: #e2921d; 
+	margin-left: 90px;
+	}
+a.snews:hover {
+	color: #e2921d; 
+	text-decoration: underline;
+	}
+.main-table {
+width: 100%;
+}
+.main-table td {
+padding: 5px;
+text-align: center;
+background-color:#55717f;
+width: 33%; 
+color: #fff;
+font-size: 14px;
+}
+.main-table td img {
+width: 180px;
+}
+.main-table span {
+text-align: center;
+color: #fff;
+font-size: 12px;
+}
+span.frak {
+font-style: italic;
+margin-bottom: 0px 0 10px 0;
+}
+p {margin-bottom: 15px}

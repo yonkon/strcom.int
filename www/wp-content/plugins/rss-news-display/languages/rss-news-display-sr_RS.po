@@ -1,0 +1,128 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Rss news display 7.1\n"
+"POT-Creation-Date: 2016-03-26 23:42+0800\n"
+"PO-Revision-Date: 2016-03-26 23:42+0800\n"
+"Last-Translator: \n"
+"Language-Team: www.gopiplus.com <www.gopiplus.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../rss-news-display.php:180
+msgid "Details successfully updated."
+msgstr "Detalji uspešno updateovani"
+
+#: ../rss-news-display.php:185 ../rss-news-display.php:330
+#: ../rss-news-display.php:357
+msgid "Rss news display"
+msgstr "Prikaz Rss vesti "
+
+#: ../rss-news-display.php:187
+msgid "Setting 1"
+msgstr "Postavka 2"
+
+#: ../rss-news-display.php:188 ../rss-news-display.php:201
+#: ../rss-news-display.php:214 ../rss-news-display.php:227
+#: ../rss-news-display.php:240 ../rss-news-display.php:462
+msgid "Rss link"
+msgstr "Rss link"
+
+#: ../rss-news-display.php:190 ../rss-news-display.php:203
+#: ../rss-news-display.php:216 ../rss-news-display.php:229
+#: ../rss-news-display.php:242
+msgid "Enter your rss link in this box."
+msgstr "Unesite vaš rss link u ovaj pravougaonik"
+
+#: ../rss-news-display.php:191 ../rss-news-display.php:204
+#: ../rss-news-display.php:217 ../rss-news-display.php:230
+#: ../rss-news-display.php:243
+msgid "Slider direction"
+msgstr "Slajder direkcija"
+
+#: ../rss-news-display.php:198 ../rss-news-display.php:211
+#: ../rss-news-display.php:224 ../rss-news-display.php:237
+#: ../rss-news-display.php:250
+msgid "Select your scroll direction"
+msgstr "Selektujte vašu skrol direkciju"
+
+#: ../rss-news-display.php:200
+msgid "Setting 2"
+msgstr "Postavka 2"
+
+#: ../rss-news-display.php:213
+msgid "Setting 3"
+msgstr "Postavka 3"
+
+#: ../rss-news-display.php:226
+msgid "Setting 4"
+msgstr "Postavka 4"
+
+#: ../rss-news-display.php:239
+msgid "Setting 5"
+msgstr "Postavka 5"
+
+#: ../rss-news-display.php:254
+msgid "Update All Details"
+msgstr "Update svih detalja"
+
+#: ../rss-news-display.php:255
+msgid "Help"
+msgstr "Pomoć"
+
+#: ../rss-news-display.php:259
+msgid "Plugin configuration option"
+msgstr "Opcije konfiguracije plugina"
+
+#: ../rss-news-display.php:261
+msgid "Drag and drop Rss news display widget into your side bar."
+msgstr "Drag&drop Rss prikaz vesti widget na vašem side baru."
+
+#: ../rss-news-display.php:262
+msgid "Add plugin in the posts or pages using short code."
+msgstr "Dodati plugin na postove ili stranice short code."
+
+#: ../rss-news-display.php:263
+msgid "Add directly in to the theme using PHP code."
+msgstr "Dodati direktno na temu korišćenjem PHP koda."
+
+#: ../rss-news-display.php:265
+msgid "Check official website for more information"
+msgstr "Proveriti oficijalni website za još info"
+
+#: ../rss-news-display.php:266 ../rss-news-display.php:475
+msgid "click here"
+msgstr "klik ovde"
+
+#: ../rss-news-display.php:356
+msgid ""
+"RSS news display is a simple plug-in to show the RSS title with cycle jQuery."
+msgstr ""
+
+#: ../rss-news-display.php:458
+msgid "Title"
+msgstr ""
+
+#: ../rss-news-display.php:466
+msgid "Direction"
+msgstr "Slajder direkcija"
+
+#: ../rss-news-display.php:468
+msgid "Select"
+msgstr ""
+
+#~ msgid "RSS url is invalid or broken"
+#~ msgstr "RSS url nije ispravan ili je slomljen"
+
+#~ msgid "Invalid rss url or broken link."
+#~ msgstr "Neispravan rss url ili slomljen link."
+
+#~ msgid "Setting 1 (Default For Widget)"
+#~ msgstr "Postavka 1 (Default za Widget)"
+
+#~ msgid "Enter your rss link in this box. (For widget)"
+#~ msgstr "Unesite rss link u ovaj pravougaonik. (za widget)"
